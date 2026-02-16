@@ -31,4 +31,4 @@ def main(page: ft.Page):
 
 if __name__ == "__main__":
     # Mantendo a abertura no navegador para evitar a tela cinza
-    ft.app(target=main, view=ft.AppView.WEB_BROWSER)
+    ft.app(target=main, view=ft.AppView.WEB_BROWSER, port=8000)
