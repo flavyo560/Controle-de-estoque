@@ -2,11 +2,9 @@ import os
 from supabase import create_client, Client
 
 # --- CONFIGURAÇÃO --
-# Agora o código lê os valores que você cadastrou no painel do Render
 url = os.getenv("SUPABASE_URL")
 key = os.getenv("SUPABASE_KEY")
 
-# Cria a conexão usando as variáveis seguras
 supabase: Client = create_client(url, key)
 
 # 1. FUNÇÃO PARA CADASTRAR
@@ -57,7 +55,7 @@ def registrar_saida(id_produto, qtd_atual):
         print(f"Erro ao registrar saída: {e}")
         return False
 
-# 5. FUNÇÃO PARA REGISTRAR ENTRADA (+1 unidade - Reposição)
+# 5. FUNÇÃO PARA REGISTRAR ENTRADA (+1 unidade)
 def registrar_entrada(id_produto, qtd_atual):
     try:
         nova_qtd = qtd_atual + 1
@@ -67,18 +65,25 @@ def registrar_entrada(id_produto, qtd_atual):
         print(f"Erro ao registrar entrada: {e}")
         return False
 
-# 6. FUNÇÃO PARA REGISTRAR ESTORNO (+1 unidade - Devolução do Cliente)
+# 6. FUNÇÃO PARA REGISTRAR ESTORNO (+1 unidade)
 def registrar_estorno(id_produto, qtd_atual):
     try:
-        # A lógica é a mesma da entrada, mas o nome ajuda na organização do código
         nova_qtd = qtd_atual + 1
         supabase.table("produtos").update({"quantidade": nova_qtd}).eq("id", id_produto).execute()
         return True
     except Exception as e:
         print(f"Erro ao registrar estorno: {e}")
         return False
+    
+# 7. FUNÇÃO DE EDITAR LANÇAMENTO (CORRIGIDA PARA TABELA 'produtos')
+def editar_produto(id_produto, novos_dados):
+    try:
+        # Mudamos de "estoque" para "produtos" para bater com o resto do código
+        response = supabase.table("produtos").update(novos_dados).eq("id", id_produto).execute()
+        return response
+    except Exception as e:
+        print(f"Erro ao editar: {e}")
+        return None
 
-# --- ÁREA DE TESTES (Sempre ao final) ---
 if __name__ == "__main__":
-    # Caso queira testar algo direto por aqui
     pass

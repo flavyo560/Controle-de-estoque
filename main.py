@@ -1,6 +1,7 @@
 import flet as ft
 import os
-from database import cadastrar_produto, listar_estoque, excluir_produto, registrar_saida, registrar_entrada, registrar_estorno
+# Adicione 'editar_produto' na importação abaixo
+from database import cadastrar_produto, listar_estoque, excluir_produto, registrar_saida, registrar_entrada, registrar_estorno, editar_produto
 
 def main(page: ft.Page):
     # --- CONFIGURAÇÃO DA PÁGINA ---
@@ -8,12 +9,11 @@ def main(page: ft.Page):
     page.theme_mode = ft.ThemeMode.LIGHT
     page.bgcolor = "white"
     page.padding = 20
-    # Alinhamento no canto superior esquerdo (topo)
     page.vertical_alignment = "start"
     page.horizontal_alignment = "start"
     page.scroll = "adaptive"
 
-    # --- CAMPOS DE ENTRADA DO SEU PROJETO ---
+    # --- CAMPOS DE ENTRADA ---
     txt_descricao = ft.TextField(label="Descrição da Peça", hint_text="Ex: Conjunto Moletom")
     txt_genero = ft.Dropdown(
         label="Gênero",
@@ -33,7 +33,57 @@ def main(page: ft.Page):
 
     lista_produtos = ft.Column(spacing=10)
 
-    # Funções de ação do estoque
+    # --- CAMPOS DO MODAL DE EDIÇÃO ---
+    edit_id = ft.Text(visible=False)
+    edit_descricao = ft.TextField(label="Descrição")
+    edit_referencia = ft.TextField(label="Referência")
+    edit_tamanho = ft.TextField(label="Tamanho")
+    edit_preco = ft.TextField(label="Preço", prefix=ft.Text("R$ "))
+
+    def fechar_modal(e):
+        modal_editar.open = False
+        page.update()
+
+    def salvar_edicao(e):
+        try:
+            novos_dados = {
+                "descricao": edit_descricao.value,
+                "referencia": edit_referencia.value,
+                "tamanho": edit_tamanho.value,
+                "preco": float(edit_preco.value.replace(",", "."))
+            }
+            editar_produto(edit_id.value, novos_dados)
+            modal_editar.open = False
+            atualizar_lista_visual(txt_busca.value)
+            page.update()
+        except:
+            pass
+
+    modal_editar = ft.AlertDialog(
+        title=ft.Text("Editar Produto"),
+        content=ft.Column([
+            edit_descricao,
+            edit_referencia,
+            edit_tamanho,
+            edit_preco,
+        ], tight=True),
+        actions=[
+            ft.TextButton("Cancelar", on_click=fechar_modal),
+            ft.ElevatedButton("Salvar Alterações", bgcolor="#0070C0", color="white", on_click=salvar_edicao),
+        ],
+    )
+    page.overlay.append(modal_editar)
+
+    def abrir_modal_editar(p):
+        edit_id.value = p['id']
+        edit_descricao.value = p['descricao']
+        edit_referencia.value = p['referencia']
+        edit_tamanho.value = p['tamanho']
+        edit_preco.value = str(p['preco']).replace(".", ",")
+        modal_editar.open = True
+        page.update()
+
+    # --- FUNÇÕES DE AÇÃO ---
     def acao_estoque(func, id_p, qtd_p, msg, cor):
         if func(id_p, qtd_p):
             atualizar_lista_visual(txt_busca.value)
@@ -66,6 +116,7 @@ def main(page: ft.Page):
                                     ft.Text(f"Qtd: {p['quantidade']} | R$ {p['preco']}", color="#0070C0", weight="bold"),
                                 ], expand=True, spacing=2),
                                 ft.Row([
+                                    ft.IconButton(icon=ft.icons.EDIT, icon_color="blue", on_click=lambda _, p=p: abrir_modal_editar(p)),
                                     ft.ElevatedButton("+", bgcolor="green", color="white", on_click=lambda _, id=p['id'], q=p['quantidade']: acao_estoque(registrar_entrada, id, q, "Entrada +1", "green")),
                                     ft.ElevatedButton("-", bgcolor="blue", color="white", on_click=lambda _, id=p['id'], q=p['quantidade']: acao_estoque(registrar_saida, id, q, "Saída -1", "blue")),
                                     ft.ElevatedButton("🗑️", bgcolor="red", color="white", on_click=lambda _, id=p['id']: deletar_item(id)),
@@ -94,7 +145,7 @@ def main(page: ft.Page):
         except:
             pass
 
-    # Conteúdos das abas
+    # --- INTERFACE ---
     container_cadastro = ft.Column([
         ft.Text("Cadastrar Novo Item", size=20, weight="bold", color="#E91E63"),
         txt_descricao,
@@ -117,7 +168,6 @@ def main(page: ft.Page):
         if not mostra_cadastro: atualizar_lista_visual()
         page.update()
 
-    # Adiciona os elementos do sistema na página diretamente
     page.add(
         ft.Text("🧸 DEKIDS SISTEMA", size=32, weight="bold", color="#0070C0"),
         ft.Row([
@@ -129,8 +179,8 @@ def main(page: ft.Page):
         container_estoque
     )
     
-    # Carrega a lista inicial
     atualizar_lista_visual()
 
 if __name__ == "__main__":
-    ft.app(target=main, view=ft.AppView.WEB_BROWSER)
+    port = int(os.getenv("PORT", 8000))
+    ft.app(target=main, view=ft.AppView.WEB_BROWSER, port=port)
