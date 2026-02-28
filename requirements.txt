@@ -1,2 +1,23 @@
-flet
-supabase
+# Dependencias do Sistema DEKIDS
+# Versoes fixas para garantir compatibilidade no Render
+
+# Framework UI - IMPORTANTE: Usar versao 0.25.0
+flet==0.25.0
+
+# Database
+supabase>=1.0.0
+
+# Testing
+hypothesis>=6.0.0
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Security
+bcrypt>=4.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+qrcode>=7.0.0
+pillow>=10.0.0
+python-barcode>=0.15.0
+reportlab>=4.0.0
