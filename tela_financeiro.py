@@ -108,7 +108,7 @@ class TelaFinanceiro:
                 ft.Text("Contas a Pagar", size=18, weight="bold"),
                 ft.ElevatedButton("Nova Conta", icon=ft.icons.ADD, on_click=lambda _: self._abrir_modal_conta("pagar"))
             ], alignment=ft.MainAxisAlignment.SPACE_BETWEEN),
-            ft.Container(content=self.lista_pagar, scroll=ft.ScrollMode.AUTO)
+            ft.Column([self.lista_pagar], scroll=ft.ScrollMode.AUTO)
         ], visible=False)
 
         # Conteúdo de Contas a Receber
@@ -128,7 +128,7 @@ class TelaFinanceiro:
                 ft.Text("Contas a Receber", size=18, weight="bold"),
                 ft.ElevatedButton("Novo Recebimento", icon=ft.icons.ADD, on_click=lambda _: self._abrir_modal_conta("receber"))
             ], alignment=ft.MainAxisAlignment.SPACE_BETWEEN),
-            ft.Container(content=self.lista_receber, scroll=ft.ScrollMode.AUTO)
+            ft.Column([self.lista_receber], scroll=ft.ScrollMode.AUTO)
         ], visible=False)
 
         # Conteúdo de Categorias
