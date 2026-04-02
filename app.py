@@ -10,6 +10,9 @@ from main import main as main_sistema
 def main(page: ft.Page):
     '''Aplicação unificada: Login -> Sistema Principal'''
     
+    # ADICIONE ESTA LINHA PARA HABILITAR SCROLL GLOBAL
+    page.scroll = ft.ScrollMode.ADAPTIVE
+
     page.title = "DEKIDS - Sistema de Gestão"
     page.bgcolor = "white"
     page.vertical_alignment = "start"

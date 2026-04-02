@@ -29,7 +29,8 @@ def main(page: ft.Page, sessao_inicial: dict = None):
     page.padding = 0  # Removido padding para NavigationRail
     page.vertical_alignment = "start"
     page.horizontal_alignment = "start"
-    page.scroll = None  # Desativado para permitir que o layout preencha a tela e use scroll interno
+    # ADICIONE ESTA LINHA PARA HABILITAR SCROLL GLOBAL
+    page.scroll = ft.ScrollMode.ADAPTIVE
 
     # --- VALIDAÇÃO DE SESSÃO ---
     # Se uma sessão foi passada por argumento (ex: vindo do app.py), usá-la
