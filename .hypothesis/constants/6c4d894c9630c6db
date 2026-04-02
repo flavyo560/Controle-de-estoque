@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\geolocator.py
+# hypothesis_version: 6.151.9
+
+['Background Location', 'airborne', 'always', 'automotiveNavigation', 'best', 'bestForNavigation', 'denied', 'deniedForever', 'error', 'fitness', 'geolocator', 'get_current_position', 'high', 'lat', 'locationSettings', 'location_settings', 'long', 'low', 'lowest', 'medium', 'onPositionChange', 'open_app_settings', 'other', 'otherNavigation', 'positionChange', 'reduced', 'request_permission', 'true', 'unableToDetermine', 'whileInUse']

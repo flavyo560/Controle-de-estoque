@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\storage3\_async\analytics.py
+# hypothesis_version: 6.151.9
+
+['DELETE', 'False', 'GET', 'POST', 'apiKey', 'bucket', 'name', 'py-io-impl', 's3', 's3.access-key-id', 's3.endpoint', 's3.secret-access-key']

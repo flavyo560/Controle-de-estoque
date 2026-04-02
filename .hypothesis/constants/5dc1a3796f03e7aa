@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\icon.py
+# hypothesis_version: 6.151.9
+
+['applyTextScaling', 'bool', 'color', 'fill', 'float', 'grade', 'icon', 'name', 'opticalSize', 'semanticsLabel', 'shadows', 'size', 'weight']

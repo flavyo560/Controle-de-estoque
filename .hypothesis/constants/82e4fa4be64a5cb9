@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\webview.py
+# hypothesis_version: 6.151.9
+
+['base_url', 'bgcolor', 'bool', 'can_go_back', 'can_go_forward', 'clear_cache', 'clear_local_storage', 'console_message', 'debug', 'disable_zoom', 'enableJavascript', 'enable_zoom', 'error', 'get', 'get_current_url', 'get_title', 'get_user_agent', 'go_back', 'go_forward', 'info', 'javascriptEnabled', 'level', 'load_file', 'load_html', 'load_request', 'log', 'message', 'method', 'page_ended', 'page_started', 'path', 'post', 'prevent_link', 'progress', 'reload', 'run_javascript', 'scroll', 'scroll_by', 'scroll_to', 'set_javascript_mode', 'true', 'url', 'url_change', 'value', 'warning', 'web_resource_error', 'webview', 'x', 'y']

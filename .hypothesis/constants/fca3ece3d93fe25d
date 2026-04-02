@@ -1,0 +1,4 @@
+# file: D:\01-07-2024\OneDrive\Área de Trabalho\estoque_app\clientes.py
+# hypothesis_version: 6.151.9
+
+[0.0, '*', '-', '.', 'CPF é obrigatório', 'Nome é obrigatório', 'Produto desconhecido', 'cliente_id', 'clientes', 'cpf', 'data_hora', 'data_ultima_compra', 'descricao', 'email', 'endereco_bairro', 'endereco_cep', 'endereco_cidade', 'endereco_complemento', 'endereco_estado', 'endereco_logradouro', 'endereco_numero', 'endereco_rua', 'finalizada', 'id', 'itens_venda', 'marca', 'nome', 'numero_compras', 'produto_id', 'produtos', 'quantidade', 'quantidade_total', 'referencia', 'status', 'telefone', 'valor_final', 'valor_total_gasto', 'venda_id', 'vendas']

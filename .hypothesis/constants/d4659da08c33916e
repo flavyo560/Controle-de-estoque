@@ -1,0 +1,4 @@
+# file: D:\01-07-2024\OneDrive\Área de Trabalho\estoque_app\src\services\import_export_service.py
+# hypothesis_version: 6.151.9
+
+['0', '5', 'CSV content is empty', 'CSV file is empty', 'CSV has no data rows', 'CSV has no headers', 'F', 'Invalid price', 'Invalid quantity', 'M', 'Name is required', 'Price is required', 'Quantity is required', 'SKU is required', 'U', 'Unknown', 'barcode', 'brand', 'description', 'gender', 'min_stock', 'name', 'price', 'quantity', 'r', 'reference', 'size', 'sku', 'utf-8-sig', 'w']

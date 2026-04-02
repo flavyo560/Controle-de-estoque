@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\strictyaml\yamllocation.py
+# hypothesis_version: 6.151.9
+
+['_ruamelparsed', '_strictparsed', '_value', 'a blank string', 'a mapping', 'a sequence', 'an arbitrary integer', 'an arbitrary number', 'arbitrary text', 'found {0}', 'when expecting {0}', 'while parsing {0}']

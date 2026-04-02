@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\animated_switcher.py
+# hypothesis_version: 6.151.9
+
+[1000, 'animatedswitcher', 'content', 'duration', 'fade', 'int', 'n', 'reverseDuration', 'rotation', 'scale', 'switchInCurve', 'switchOutCurve', 'transition']

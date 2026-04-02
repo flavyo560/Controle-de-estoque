@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\date_picker.py
+# hypothesis_version: 6.151.9
+
+[1900, 2050, '0.21.0', '0.23.0', '0.26.0', 'barrierColor', 'bool', 'calendar', 'calendarOnly', 'cancelText', 'change', 'confirmText', 'currentDate', 'datePickerEntryMode', 'datePickerMode', 'datepicker', 'day', 'dismiss', 'entryModeChange', 'errorFormatText', 'errorInvalidText', 'fieldHintText', 'fieldLabelText', 'firstDate', 'helpText', 'input', 'inputOnly', 'keyboardType', 'lastDate', 'open', 'value', 'year']

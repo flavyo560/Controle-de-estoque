@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\utils\platform_utils.py
+# hypothesis_version: 6.151.9
+
+['/proc/version', '1', 'DISPLAY', 'Darwin', 'FLET_PLATFORM', 'Linux', 'Windows', 'aarch64', 'amd64', 'android', 'arm', 'arm64', 'arm_7', 'darwin', 'emscripten', 'ios', 'linux', 'microsoft', 'r', 'true', 'windows', 'x86_64', 'yes']

@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\chip.py
+# hypothesis_version: 6.151.9
+
+['autofocus', 'bgcolor', 'blur', 'bool', 'checkColor', 'chip', 'click', 'clickElevation', 'clipBehavior', 'color', 'delete', 'deleteButtonTooltip', 'deleteIcon', 'deleteIconColor', 'disabledColor', 'elevation', 'float', 'focus', 'label', 'labelPadding', 'labelStyle', 'leading', 'n', 'onDelete', 'onSelect', 'onclick', 'padding', 'select', 'selected', 'selectedColor', 'selectedShadowColor', 'shadowColor', 'shape', 'showCheckmark', 'surfaceTintColor', 'visualDensity']

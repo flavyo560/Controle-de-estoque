@@ -1,0 +1,4 @@
+﻿descricao,genero,marca,referencia,tamanho,quantidade,preco,estoque_minimo
+,Masculino,Teste Brand,TEST004,M,10,29.90,5
+Produto com preço negativo,Feminino,Teste Brand,TEST005,P,15,-79.90,3
+Produto com quantidade negativa,Unissex,Teste Brand,TEST006,G,-8,99.90,2

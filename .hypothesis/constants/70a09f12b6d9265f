@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\pyiceberg\types.py
+# hypothesis_version: 6.151.9
+
+[-3.4028235e+38, 3.4028235e+38, -9223372036854775808, -2147483648, 2147483647, 9223372036854775807, '0', '1', 'before', 'binary', 'boolean', 'date', 'decimal', 'doc', 'double', 'element', 'element-id', 'element-required', 'element_type', 'f', 'false', 'field_type', 'fields', 'fixed', 'float', 'id', 'initial-default', 'int', 'key', 'key-id', 'length', 'list', 'long', 'map', 'n', 'name', 'no', 'off', 'on', 'optional', 'precision', 'required', 'scale', 'string', 'struct', 't', 'time', 'timestamp', 'timestamp_ns', 'timestamptz', 'timestamptz_ns', 'true', 'type', 'unknown', 'uuid', 'value', 'value-id', 'value-required', 'wrap', 'write-default', 'y', 'yes']

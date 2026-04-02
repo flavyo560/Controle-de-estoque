@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\strictyaml\ruamel\serializer.py
+# hypothesis_version: 6.151.9
+
+['.', 'Serializer', 'SerializerError', 'Serializing nodes', 'id%03d', 'id(?!000$)\\d{3,}', 'serializer is closed', 'tag:yaml.org,2002:', 'typ']

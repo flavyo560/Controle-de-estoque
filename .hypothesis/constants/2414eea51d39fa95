@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\form_field_control.py
+# hypothesis_version: 6.151.9
+
+[-1.0, 1.0, 'alignLabelWithHint', 'bgcolor', 'bool', 'border', 'borderColor', 'borderRadius', 'borderWidth', 'collapsed', 'color', 'contentPadding', 'counter', 'counterStyle', 'counterText', 'dense', 'error', 'errorMaxLines', 'errorStyle', 'errorText', 'fillColor', 'filled', 'fitParentSize', 'focusColor', 'focusedBgcolor', 'focusedBorderColor', 'focusedBorderWidth', 'focusedColor', 'helper', 'helperMaxLines', 'helperStyle', 'helperText', 'hintFadeDuration', 'hintMaxLines', 'hintStyle', 'hintText', 'hoverColor', 'icon', 'int', 'label', 'labelStyle', 'n', 'none', 'outline', 'prefix', 'prefixIcon', 'prefixStyle', 'prefixText', 'prefix_icon', 'sizeConstraints', 'suffix', 'suffixIcon', 'suffixStyle', 'suffixText', 'suffix_icon', 'textSize', 'textStyle', 'textVerticalAlign', 'underline']

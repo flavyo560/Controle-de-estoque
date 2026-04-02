@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\charts\chart_axis.py
+# hypothesis_version: 6.151.9
+
+[1.0, 'axis', 'bool', 'float', 'l', 'labelsInterval', 'labelsSize', 'n', 'showLabels', 't', 'titleSize']

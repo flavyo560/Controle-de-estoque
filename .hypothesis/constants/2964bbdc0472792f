@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\cachetools\__init__.py
+# hypothesis_version: 6.151.9
+
+['%s is empty', '6.2.6', 'Cache', 'CacheInfo', 'FIFOCache', 'LFUCache', 'LRUCache', 'RRCache', 'TLRUCache', 'TTLCache', 'cached', 'cachedmethod', 'count', 'currsize', 'expires', 'hits', 'key', 'keys', 'maxsize', 'misses', 'next', 'prev', 'removed', 'value too large']

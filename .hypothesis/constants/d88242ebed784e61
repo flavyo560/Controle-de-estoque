@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\pyiceberg\table\name_mapping.py
+# hypothesis_version: 6.151.9
+
+['\n]', '([', ')', ', ', '?', 'S', 'T', '[\n  ', '[]', '] -> ', 'before', 'element', 'field-id', 'fields', 'key', 'names', 'value']

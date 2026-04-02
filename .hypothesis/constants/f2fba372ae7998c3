@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\shake_detector.py
+# hypothesis_version: 6.151.9
+
+['float', 'int', 'minimumShakeCount', 'shake', 'shakeSlopTimeMS', 'shakedetector']

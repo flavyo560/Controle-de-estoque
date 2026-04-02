@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\snack_bar.py
+# hypothesis_version: 6.151.9
+
+[0.25, 'action', 'actionColor', 'behavior', 'bgColor', 'bool', 'clipBehavior', 'closeIconColor', 'content', 'dismissDirection', 'down', 'duration', 'elevation', 'endToStart', 'fixed', 'float', 'floating', 'horizontal', 'int', 'margin', 'n', 'none', 'open', 'padding', 'shape', 'showCloseIcon', 'snackbar', 'startToEnd', 'up', 'vertical', 'visible', 'width']

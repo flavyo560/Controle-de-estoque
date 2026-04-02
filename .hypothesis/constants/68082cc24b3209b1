@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\cupertino_date_picker.py
+# hypothesis_version: 6.151.9
+
+[32.0, 'bgcolor', 'bool', 'change', 'cupertinodatepicker', 'date', 'dateAndTime', 'dateOrder', 'datePickerMode', 'dmy', 'firstDate', 'float', 'int', 'itemExtent', 'lastDate', 'maxYear', 'minYear', 'minuteInterval', 'monthYear', 'myd', 'time', 'use24hFormat', 'value', 'ydm', 'ymd']

@@ -1,0 +1,4 @@
+# file: D:\01-07-2024\OneDrive\Área de Trabalho\estoque_app\src\domain\product.py
+# hypothesis_version: 6.151.9
+
+[100, 200, 'F', 'M', 'U', '^(M|F|U)$', 'gender', 'price', 'quantity']

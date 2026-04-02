@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\search_bar.py
+# hypothesis_version: 6.151.9
+
+['0.21.0', '0.26.0', 'autofocus', 'barBgcolor', 'barBorderSide', 'barElevation', 'barHintText', 'barHintTextStyle', 'barLeading', 'barOverlayColor', 'barPadding', 'barShadowColor', 'barShape', 'barSurfaceTintColor', 'barTextStyle', 'barTrailing', 'blur', 'bool', 'capitalization', 'change', 'closeView', 'controls', 'dividerColor', 'focus', 'fullScreen', 'i', 'keyboardType', 'method', 'n', 'onTapOutsideBar', 'onchange', 'onsubmit', 'ontap', 'openView', 'p', 'searchbar', 'submit', 'tap', 'tapOutsideBar', 'text', 'value', 'viewBgcolor', 'viewElevation', 'viewHeaderHeight', 'viewHeaderTextStyle', 'viewHintText', 'viewHintTextStyle', 'viewLeading', 'viewShape', 'viewSide', 'viewSizeConstraints', 'viewSurfaceTintColor', 'viewTrailing']

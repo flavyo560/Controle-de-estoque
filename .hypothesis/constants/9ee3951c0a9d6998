@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\video.py
+# hypothesis_version: 6.151.9
+
+[100, '0.21.0', '0.25.0', '0.26.0', '0.28.0', 'alignment', 'autoPlay', 'bool', 'completed', 'configuration', 'enter_fullscreen', 'error', 'exit_fullscreen', 'extras', 'fillColor', 'filterQuality', 'fit', 'float', 'get_current_position', 'get_duration', 'http_headers', 'index out of range', 'is_completed', 'is_playing', 'jump_to', 'loaded', 'loop', 'media_index', 'muted', 'next', 'none', 'onCompleted', 'onEnterFullscreen', 'onError', 'onExitFullscreen', 'onLoaded', 'onTrackChanged', 'pause', 'pitch', 'play', 'play_or_pause', 'playbackRate', 'playlist', 'playlistMode', 'playlist_add', 'playlist_remove', 'position', 'previous', 'resource', 'seek', 'showControls', 'shufflePlaylist', 'single', 'stop', 'title', 'track_changed', 'true', 'video', 'volume', 'wakelock']

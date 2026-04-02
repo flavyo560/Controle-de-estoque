@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\audio.py
+# hypothesis_version: 6.151.9
+
+['0.21.0', '0.26.0', 'audio', 'autoplay', 'balance', 'bool', 'completed', 'disposed', 'duration_changed', 'get_current_position', 'get_duration', 'loaded', 'loop', 'onPositionChanged', 'pause', 'paused', 'play', 'playbackRate', 'playing', 'position', 'position_changed', 'release', 'releaseMode', 'resume', 'seek', 'seek_complete', 'src', 'srcBase64', 'state_changed', 'stop', 'stopped', 'volume']

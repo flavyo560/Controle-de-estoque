@@ -1,0 +1,4 @@
+# file: D:\01-07-2024\OneDrive\Área de Trabalho\estoque_app\src\domain\audit.py
+# hypothesis_version: 6.151.9
+
+['CREATE', 'DELETE', 'FAILED_LOGIN', 'LOGIN', 'LOGOUT', 'UPDATE', 'operation']

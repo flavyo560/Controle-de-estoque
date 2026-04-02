@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\constrained_control.py
+# hypothesis_version: 6.151.9
+
+['animateOffset', 'animateOpacity', 'animatePosition', 'animateRotation', 'animateScale', 'animateSize', 'animation_end', 'aspectRatio', 'bottom', 'height', 'key', 'left', 'offset', 'onAnimationEnd', 'right', 'rotate', 'scale', 'top', 'width']

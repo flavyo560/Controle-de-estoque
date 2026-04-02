@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\pyiceberg\utils\schema_conversion.py
+# hypothesis_version: 6.151.9
+
+['adjust-to-utc', 'array', 'boolean', 'bytes', 'date', 'decimal', 'default', 'doc', 'double', 'element-id', 'enum', 'fields', 'fixed', 'float', 'int', 'items', 'key', 'key-id', 'logicalType', 'long', 'map', 'name', 'null', 'precision', 'record', 'scale', 'size', 'string', 'time-micros', 'timestamp-micros', 'timestamp-nanos', 'type', 'uuid', 'uuid_fixed', 'value', 'value-id', 'values']

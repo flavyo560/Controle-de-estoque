@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\navigation_bar.py
+# hypothesis_version: 6.151.9
+
+['0.23.0', '0.26.0', 'alwaysHide', 'alwaysShow', 'animationDuration', 'bgcolor', 'border', 'change', 'elevation', 'icon', 'icon_content', 'indicatorColor', 'indicatorShape', 'int', 'label', 'labelBehavior', 'n', 'navigationbar', 'onlyShowSelected', 'overlayColor', 'selectedIcon', 'selectedIndex', 'selected_icon', 'shadowColor', 'surfaceTintColor', 'tooltip']

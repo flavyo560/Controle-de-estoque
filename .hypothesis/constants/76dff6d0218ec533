@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\charts\line_chart.py
+# hypothesis_version: 6.151.9
+
+[0.0, 120, 'LineChartEvent', 'animate', 'b', 'baselineX', 'baselineY', 'baselinex', 'bgcolor', 'bool', 'border', 'chart_event', 'float', 'horizontalGridLines', 'interactive', 'l', 'linechart', 'maxX', 'maxY', 'minX', 'minY', 'n', 'onChartEvent', 'pointLineEnd', 'pointLineStart', 'r', 'spots', 't', 'tooltipBgcolor', 'tooltipBorderSide', 'tooltipMargin', 'tooltipPadding', 'tooltipRotateAngle', 'tooltipRoundedRadius', 'type', 'verticalGridLines']

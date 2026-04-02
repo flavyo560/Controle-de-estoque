@@ -1,0 +1,4 @@
+# file: D:\01-07-2024\OneDrive\Área de Trabalho\estoque_app\src\services\import_export_service.py
+# hypothesis_version: 6.151.9
+
+[200, 'F', 'M', 'U', 'Unknown', 'barcode', 'brand', 'description', 'error', 'export_to_csv', 'filepath', 'gender', 'import_from_csv', 'min_stock', 'name', 'price', 'quantity', 'r', 'reference', 'rows', 'size', 'sku', 'utf-8-sig', 'w']

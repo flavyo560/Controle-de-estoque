@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\permission_handler.py
+# hypothesis_version: 6.151.9
+
+['accessMediaLocation', 'activityRecognition', 'assistant', 'audio', 'backgroundRefresh', 'bluetooth', 'bluetoothAdvertise', 'bluetoothConnect', 'bluetoothScan', 'calendarFullAccess', 'calendarWriteOnly', 'camera', 'check_permission', 'contacts', 'criticalAlerts', 'denied', 'granted', 'limited', 'location', 'locationAlways', 'locationWhenInUse', 'mediaLibrary', 'microphone', 'nearbyWifiDevices', 'notification', 'of', 'open_app_settings', 'permanentlyDenied', 'permission_handler', 'phone', 'photos', 'photosAddOnly', 'provisional', 'reminders', 'request_permission', 'restricted', 'scheduleExactAlarm', 'sensors', 'sensorsAlways', 'sms', 'speech', 'storage', 'systemAlertWindow', 'true', 'unknown', 'videos']

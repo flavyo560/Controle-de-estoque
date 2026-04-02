@@ -1,0 +1,4 @@
+# file: D:\01-07-2024\OneDrive\Área de Trabalho\estoque_app\src\infrastructure\background_tasks.py
+# hypothesis_version: 6.151.9
+
+[1.0, 'completed', 'failed', 'pending', 'running']

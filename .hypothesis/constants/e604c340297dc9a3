@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\strictyaml\yamlpointer.py
+# hypothesis_version: 6.151.9
+
+['<YAMLPointer: {0}>', 'Invalid state', '_value', 'index', 'key', 'text', 'textslice', 'val']

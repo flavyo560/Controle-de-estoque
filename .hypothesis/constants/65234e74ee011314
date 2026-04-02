@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\text.py
+# hypothesis_version: 6.151.9
+
+[2.0, 'affinity', 'base_offset', 'bgcolor', 'bool', 'cause', 'collapsed', 'color', 'directional', 'doubleTap', 'downstream', 'drag', 'end', 'extent_offset', 'float', 'fontFamily', 'forcePress', 'italic', 'keyboard', 'longPress', 'maxLines', 'noWrap', 'normalized', 'overflow', 'scribble', 'selectable', 'selectionCursorColor', 'selectionCursorWidth', 'selection_change', 'semanticsLabel', 'showSelectionCursor', 'size', 'start', 'style', 'tap', 'text', 'textAlign', 'theme_style', 'toolbar', 'unknown', 'upstream', 'valid', 'value', 'weight']

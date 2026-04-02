@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\supabase_auth\_async\gotrue_admin_api.py
+# hypothesis_version: 6.151.9
+
+['"', '&', ',', ';', '=', '>', 'DELETE', 'GET', 'POST', 'PUT', 'admin/generate_link', 'admin/oauth/clients', 'admin/users', 'data', 'email', 'global', 'id', 'invite', 'last', 'link', 'logout', 'new_email', 'next', 'options', 'page=', 'password', 'redirect_to', 'should_soft_delete', 'type', 'user_id', 'x-total-count']

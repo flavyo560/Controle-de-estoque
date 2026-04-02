@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\slider.py
+# hypothesis_version: 6.151.9
+
+[0.0, 1.0, 'activeColor', 'autofocus', 'blur', 'bool', 'change', 'change_end', 'change_start', 'divisions', 'float', 'focus', 'inactiveColor', 'int', 'interaction', 'label', 'max', 'min', 'mouseCursor', 'overlayColor', 'round', 'secondaryActiveColor', 'secondaryTrackValue', 'slideOnly', 'slideThumb', 'slider', 'tapAndSlide', 'tapOnly', 'thumbColor', 'value']

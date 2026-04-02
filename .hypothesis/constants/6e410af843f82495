@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\strictyaml\ruamel\error.py
+# hypothesis_version: 6.151.9
+
+['\x00\r\n\x85\u2028\u2029', ' ... ', ':\n', 'CommentMark', 'FileMark', 'MarkedYAMLError', 'MarkedYAMLWarning', 'ReusedAnchorWarning', 'StringMark', 'UnsafeLoaderWarning', 'YAMLError', '^', '^ (line: {})', 'buffer', 'column', 'index', 'line', 'name', 'once', 'pointer']

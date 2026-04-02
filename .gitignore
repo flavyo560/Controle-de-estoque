@@ -1,0 +1,11 @@
+# Arquivos de Ambiente
+.env
+.env.local
+__pycache__/
+*.pyc
+logs/
+comprovantes/
+exports/
+backup_*/
+venv/
+.kiro/

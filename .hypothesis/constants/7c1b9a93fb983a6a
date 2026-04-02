@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\pyiceberg\table\__init__.py
+# hypothesis_version: 6.151.9
+
+[100, 128, 512, 1000, 1024, 20000, 1048576, '*', ',\n  ', '.metadata.json', ':memory:', 'Not yet implemented', 'S', 'TableScan', 'To be implemented', 'copy-on-write', 'false', 'file_path', 'format-version', 'gzip', 'include_empty_files', 'merge-on-read', 'metadata', 'metadata-location', 'parquet', 'self', 'static-table', 'truncate(16)', 'utf-8', 'version-hint.text', 'write.data.path', 'write.delete.mode', 'write.format.default', 'write.metadata.path', 'zstd']

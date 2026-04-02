@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\audio_recorder.py
+# hypothesis_version: 6.151.9
+
+['0.21.0', '0.26.0', 'aacEld', 'aacHe', 'aacLc', 'amrNb', 'amrWb', 'audioEncoder', 'audiorecorder', 'autoGain', 'bitRate', 'bool', 'cancelEcho', 'cancel_recording', 'channels', 'encoder', 'flac', 'get_input_devices', 'has_permission', 'is_paused', 'is_recording', 'is_supported_encoder', 'opus', 'outputPath', 'pause_recording', 'paused', 'pcm16bits', 'recording', 'resume_recording', 'sampleRate', 'start_recording', 'state_changed', 'stop_recording', 'stopped', 'suppressNoise', 'true', 'wav']

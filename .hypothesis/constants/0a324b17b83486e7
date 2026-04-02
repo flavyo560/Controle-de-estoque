@@ -1,0 +1,4 @@
+# file: D:\01-07-2024\OneDrive\Área de Trabalho\estoque_app\validacao_vendas.py
+# hypothesis_version: 6.151.9
+
+[0.01, 100, 'CPF inválido', 'CPF válido', 'Email válido', 'Pagamento válido', 'Pagamentos válidos', '\\D', 'cartao_credito', 'cartao_debito', 'dinheiro', 'forma_pagamento', 'numero_parcelas', 'percentual', 'pix', 'valor']

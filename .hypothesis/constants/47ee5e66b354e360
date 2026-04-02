@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\interactive_viewer.py
+# hypothesis_version: 6.151.9
+
+[1.35e-05, 0.8, 2.5, 200, 'alignment', 'bool', 'boundaryMargin', 'clipBehavior', 'constrained', 'float', 'fp_x', 'fp_y', 'hs', 'interaction_end', 'interaction_start', 'interaction_update', 'interactiveviewer', 'lfp_x', 'lfp_y', 'maxScale', 'minScale', 'panEnabled', 'pc', 'rot', 's', 'scaleEnabled', 'scaleFactor', 'sv', 'vs']

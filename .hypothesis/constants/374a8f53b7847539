@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\checkbox.py
+# hypothesis_version: 6.151.9
+
+['activeColor', 'autofocus', 'blur', 'bool', 'bool?', 'borderSide', 'change', 'checkColor', 'checkbox', 'fillColor', 'float', 'focus', 'focusColor', 'hoverColor', 'isError', 'label', 'labelPosition', 'labelStyle', 'mouseCursor', 'overlayColor', 'semanticsLabel', 'shape', 'splashRadius', 'tristate', 'value', 'visualDensity']

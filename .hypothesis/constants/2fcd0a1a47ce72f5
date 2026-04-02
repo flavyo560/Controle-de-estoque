@@ -1,0 +1,4 @@
+# file: D:\01-07-2024\OneDrive\Área de Trabalho\estoque_app\src\infrastructure\config.py
+# hypothesis_version: 6.151.9
+
+[60.0, 100, 300, 1000, 6379, '.env', '2.0.0', 'DEBUG', 'DEKIDS', 'ERROR', 'INFO', 'WARNING', 'csv', 'daily', 'database_url', 'development', 'encryption_key', 'jpg', 'localhost', 'logs/dekids.log', 'memory', 'pdf', 'png', 'postgres://', 'postgresql://', 'production', 'redis', 'secret_key', 'staging', 'testing', 'utf-8']

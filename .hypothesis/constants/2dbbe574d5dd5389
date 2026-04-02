@@ -1,0 +1,4 @@
+# file: D:\01-07-2024\OneDrive\Área de Trabalho\estoque_app\src\services\inventory_service.py
+# hypothesis_version: 6.151.9
+
+[120, 300, 'IN', 'OUT', 'critical', 'low_stock_products', 'metrics', 'min_stock', 'name', 'price', 'products', 'quantity', 'search:*', 'sku', 'total', 'warning']

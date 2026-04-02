@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\strictyaml\ruamel\events.py
+# hypothesis_version: 6.151.9
+
+['%s(%s)', '%s=%r', ', ', ', comment={!r}', 'anchor', 'comment', 'encoding', 'end_mark', 'explicit', 'flow_style', 'implicit', 'nr_items', 'start_mark', 'style', 'tag', 'tags', 'value', 'version']

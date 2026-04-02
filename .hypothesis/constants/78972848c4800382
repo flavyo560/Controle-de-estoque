@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\radio.py
+# hypothesis_version: 6.151.9
+
+['activeColor', 'autofocus', 'blur', 'bool', 'fillColor', 'float', 'focus', 'focusColor', 'label', 'labelPosition', 'labelStyle', 'mouseCursor', 'overlayColor', 'radio', 'splashRadius', 'toggleable', 'value', 'visualDensity']

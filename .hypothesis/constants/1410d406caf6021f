@@ -1,0 +1,4 @@
+# file: D:\01-07-2024\OneDrive\Área de Trabalho\estoque_app\src\services\sales_service.py
+# hypothesis_version: 6.151.9
+
+['0.01', 'amount', 'brand', 'cancellation_reason', 'cancelled', 'completed', 'final_amount', 'id', 'items_count', 'name', 'payment_method', 'price', 'product_id', 'product_snapshot', 'quantity', 'reference', 'sales', 'size', 'sku', 'status', 'subtotal', 'total_amount', 'unit_price']

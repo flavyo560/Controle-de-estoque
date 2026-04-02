@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\alert_dialog.py
+# hypothesis_version: 6.151.9
+
+['action', 'actionButtonPadding', 'actionsAlignment', 'actionsPadding', 'alertdialog', 'alignment', 'barrierColor', 'bgcolor', 'bool', 'clipBehavior', 'content', 'contentPadding', 'contentTextStyle', 'dismiss', 'elevation', 'float', 'icon', 'iconColor', 'iconPadding', 'insetPadding', 'modal', 'n', 'open', 'scrollable', 'semanticsLabel', 'shadowColor', 'shape', 'surfaceTintColor', 'title', 'titlePadding', 'titleTextStyle']

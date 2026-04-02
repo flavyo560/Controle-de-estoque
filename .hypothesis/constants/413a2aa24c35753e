@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\range_slider.py
+# hypothesis_version: 6.151.9
+
+['activeColor', 'change', 'change_end', 'change_start', 'divisions', 'endValue', 'float', 'inactiveColor', 'label', 'max', 'min', 'overlayColor', 'rangeslider', 'round', 'startValue']

@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\navigation_drawer.py
+# hypothesis_version: 6.151.9
+
+['bgColor', 'bgcolor', 'bool', 'change', 'dismiss', 'elevation', 'end', 'icon', 'icon_content', 'indicatorColor', 'indicatorShape', 'int', 'label', 'n', 'navigationdrawer', 'open', 'selectedIcon', 'selectedIndex', 'selected_icon', 'shadowColor', 'start', 'surfaceTintColor', 'tilePadding']

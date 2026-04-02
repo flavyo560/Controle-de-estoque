@@ -1,0 +1,4 @@
+# file: D:\01-07-2024\OneDrive\Área de Trabalho\estoque_app\src\domain\sale.py
+# hypothesis_version: 6.151.9
+
+['0.00', '0.01', 'InventoryMovement', 'Sale', 'SaleCreate', 'SaleItem', 'adjustment', 'after', 'amount', 'cancelled', 'cash', 'completed', 'credit_card', 'debit_card', 'discount_amount', 'final_amount', 'movement_type', 'payment_method', 'pix', 'purchase', 'quantity', 'return', 'sale', 'status', 'subtotal', 'total_amount', 'unit_price']

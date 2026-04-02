@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\pyiceberg\avro\reader.py
+# hypothesis_version: 6.151.9
+
+['_hash', '_is_int_bytes', '_is_int_int', '_is_int_list', '_key_reader', '_length', '_max_pos', '_value_reader', 'create_struct', 'default_value', 'element', 'field_readers', 'key', 'precision', 'scale', 'struct', 'value']

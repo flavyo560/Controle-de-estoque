@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\pyiceberg\expressions\__init__.py
+# hypothesis_version: 6.151.9
+
+[', ', 'AlwaysFalse()', 'AlwaysTrue()', 'BooleanExpression', 'and', 'eq', 'gt', 'gt-eq', 'in', 'is-nan', 'is-null', 'left', 'lt', 'lt-eq', 'not', 'not-eq', 'not-in', 'not-nan', 'not-null', 'not-starts-with', 'or', 'right', 'starts-with', 'type', 'value', 'values', 'wrap']

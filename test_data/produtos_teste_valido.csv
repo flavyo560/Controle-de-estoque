@@ -1,0 +1,4 @@
+﻿descricao,genero,marca,referencia,tamanho,quantidade,preco,estoque_minimo,codigo_barras
+Camiseta Teste Import 1,Masculino,Teste Brand,TEST001,M,10,29.90,5,
+Calça Teste Import 2,Feminino,Teste Brand,TEST002,P,15,79.90,3,
+Conjunto Teste Import 3,Unissex,Teste Brand,TEST003,G,8,99.90,2,

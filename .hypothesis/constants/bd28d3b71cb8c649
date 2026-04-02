@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\strictyaml\ruamel\nodes.py
+# hypothesis_version: 6.151.9
+
+['    {}comment: {})\n', '%s(tag=%r, value=%s)', 'Node value type? {}\n', 'anchor', 'comment', 'end_mark', 'flow_style', 'mapping', 'merge', 'scalar', 'sequence', 'start_mark', 'style', 'tag', 'value', '{}{}(tag={!r})\n']

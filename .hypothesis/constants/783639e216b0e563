@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\supabase_functions\_async\functions_client.py
+# hypothesis_version: 6.151.9
+
+['Authorization', 'Content-Type', 'DELETE', 'GET', 'HEAD', 'OPTIONS', 'PATCH', 'POST', 'PUT', 'X-Client-Info', 'any', 'application/json', 'body', 'error', 'forceFunctionRegion', 'headers', 'json', 'python', 'region', 'responseType', 'status_code', 'text/plain', 'true', 'x-region', 'x-relay-header']

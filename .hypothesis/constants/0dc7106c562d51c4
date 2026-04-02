@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\floating_action_button.py
+# hypothesis_version: 6.151.9
+
+['autofocus', 'bgcolor', 'bool', 'click', 'clipBehavior', 'content', 'disabledElevation', 'elevation', 'enableFeedback', 'float', 'floatingactionbutton', 'focusColor', 'focusElevation', 'foregroundColor', 'highlightElevation', 'hoverElevation', 'icon', 'mini', 'mouseCursor', 'n', 'shape', 'text', 'url', 'urlTarget']

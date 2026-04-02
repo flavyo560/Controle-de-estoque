@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\container.py
+# hypothesis_version: 6.151.9
+
+[1.0, 'ContainerTapEvent', 'alignment', 'animate', 'bgColor', 'blendMode', 'blur', 'bool', 'border', 'borderRadius', 'click', 'clipBehavior', 'colorFilter', 'container', 'content', 'float', 'foregroundDecoration', 'gradient', 'gx', 'gy', 'hover', 'ignoreInteractions', 'image', 'imageFit', 'imageOpacity', 'imageRepeat', 'imageSrc', 'imageSrcBase64', 'ink', 'inkColor', 'long_press', 'lx', 'ly', 'margin', 'n', 'onClick', 'onHover', 'onLongPress', 'onTapDown', 'padding', 'shadow', 'shape', 'tap_down', 'theme', 'themeMode', 'url', 'urlTarget']

@@ -1,0 +1,4 @@
+# file: D:\01-07-2024\OneDrive\Área de Trabalho\estoque_app\src\services\validation_service.py
+# hypothesis_version: 6.151.9
+
+[b'<?php', b'<script', b'eval(', 255, 1024, "('.*--)", '(--|;|\\/\\*|\\*\\/)', '(\\bAND\\b.*=.*)', '(\\bOR\\b.*=.*)', '.', '<iframe', 'Invalid CPF', 'Invalid email format', '\\D', 'javascript:', 'on\\w+\\s*=']

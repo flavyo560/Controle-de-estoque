@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\dismissible.py
+# hypothesis_version: 6.151.9
+
+['0.21.0', '0.26.0', 'background', 'confirm_dismiss', 'content', 'crossAxisEndOffset', 'direction', 'dismiss', 'dismissDirection', 'dismissThresholds', 'dismissible', 'float', 'int', 'movementDuration', 'n', 'onConfirmDismiss', 'onDismiss', 'onResize', 'onUpdate', 'previous_reached', 'progress', 'reached', 'resize', 'resizeDuration', 'secondaryBackground', 'update']

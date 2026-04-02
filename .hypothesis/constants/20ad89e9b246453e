@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\app_bar.py
+# hypothesis_version: 6.151.9
+
+[1.0, 'action', 'appbar', 'bgcolor', 'bool', 'centerTitle', 'clipBehavior', 'color', 'elevation', 'elevationOnScroll', 'float', 'isSecondary', 'leading', 'leadingWidth', 'n', 'shadowColor', 'shape', 'surfaceTintColor', 'title', 'titleSpacing', 'titleTextStyle', 'toolbarHeight', 'toolbarOpacity', 'toolbarTextStyle']

@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\charts\bar_chart.py
+# hypothesis_version: 6.151.9
+
+['BarChartEvent', 'animate', 'auto', 'b', 'barchart', 'baseliney', 'bgcolor', 'bool', 'border', 'bottom', 'chart_event', 'float', 'group_index', 'groupsSpace', 'horizontalGridLines', 'interactive', 'l', 'maxy', 'miny', 'n', 'onChartEvent', 'r', 'rod_index', 'stack_item_index', 't', 'tooltipBgcolor', 'tooltipBorderSide', 'tooltipDirection', 'tooltipMargin', 'tooltipPadding', 'tooltipRotateAngle', 'tooltipRoundedRadius', 'top', 'type', 'verticalGridLines']

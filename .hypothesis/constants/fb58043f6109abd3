@@ -1,0 +1,4 @@
+# file: D:\01-07-2024\OneDrive\Área de Trabalho\estoque_app\src\domain\customer.py
+# hypothesis_version: 6.151.9
+
+[200, 255, 'Invalid email format', '\\D', 'cpf', 'email', 'phone']

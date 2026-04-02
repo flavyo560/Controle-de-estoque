@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\pyiceberg\expressions\parser.py
+# hypothesis_version: 6.151.9
+
+['!=', '"', '%', "'", "''", '(', ')', '.', '<', '<=', '<>', '=', '==', '>', '>=', '\\', '\\%', '_', '_$', 'and', 'between', 'boolean', 'column', 'decimal', 'expr', 'false', 'identifier', 'in', 'integer', 'invalid_wildcard', 'is', 'like', 'literal', 'literal_set', 'nan', 'not', 'null', 'op', 'or', 'predicate', 'raw_quoted_string', 'true', 'valid_wildcard']

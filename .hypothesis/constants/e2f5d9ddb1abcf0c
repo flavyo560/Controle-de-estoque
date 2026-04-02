@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\pyiceberg\schema.py
+# hypothesis_version: 6.151.9
+
+['\n}', ', ', '.', 'Dataframe field', 'Expected a struct', 'Missing', 'P', 'T', 'Table field', '_', '_x', 'after', 'bold', 'field-id', 'fields', 'iceberg-field-name', 'identifier-field-ids', 'schema-id', 'struct', 'table {\n', '✅', '❌']

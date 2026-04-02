@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\semantics.py
+# hypothesis_version: 6.151.9
+
+['bool', 'button', 'checked', 'container', 'content', 'copy', 'cut', 'decrease', 'decreasedValue', 'dismiss', 'double_tap', 'expanded', 'focus', 'focusable', 'focused', 'header', 'hidden', 'hintText', 'image', 'increase', 'increasedValue', 'label', 'link', 'liveRegion', 'long_press', 'maxValueLength', 'multiline', 'n', 'obscured', 'onCopy', 'onCut', 'onDecrease', 'onDismiss', 'onDoubleTap', 'onIncrease', 'onLongPress', 'onLongPressHintText', 'onPaste', 'onScrollDown', 'onScrollLeft', 'onScrollRight', 'onScrollUp', 'onTap', 'onTapHintText', 'paste', 'readOnly', 'scroll_down', 'scroll_left', 'scroll_right', 'scroll_up', 'selected', 'semantics', 'slider', 'tap', 'textfield', 'toggled', 'tooltip', 'value']

@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\pyiceberg\table\statistics.py
+# hypothesis_version: 6.151.9
+
+['blob-metadata', 'deletion-vector-v1', 'file-size-in-bytes', 'key-metadata', 'sequence-number', 'snapshot-id', 'statistics-path']

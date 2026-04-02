@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\view.py
+# hypothesis_version: 6.151.9
+
+['bgcolor', 'bool', 'decoration', 'end', 'float', 'foregroundDecoration', 'fullscreenDialog', 'horizontalAlignment', 'n', 'padding', 'route', 'spacing', 'start', 'verticalAlignment', 'view']

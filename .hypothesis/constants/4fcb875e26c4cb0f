@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\auto_complete.py
+# hypothesis_version: 6.151.9
+
+[200.0, 'autocomplete', 'float', 'int', 'key', 'select', 'selectedIndex', 'suggestions', 'suggestionsMaxHeight', 'value']

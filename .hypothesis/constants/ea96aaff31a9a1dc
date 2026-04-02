@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\popup_menu_button.py
+# hypothesis_version: 6.151.9
+
+[8.0, 48.0, 'bgcolor', 'bool', 'cancel', 'cancelled', 'checked', 'click', 'clipBehavior', 'content', 'elevation', 'enableFeedback', 'float', 'height', 'icon', 'iconColor', 'iconSize', 'menuPadding', 'menuPosition', 'mouseCursor', 'n', 'open', 'over', 'padding', 'popupAnimationStyle', 'popupmenubutton', 'popupmenuitem', 'select', 'shadowColor', 'shape', 'sizeConstraints', 'splashRadius', 'style', 'surfaceTintColor', 'text', 'under']

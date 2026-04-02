@@ -1,0 +1,4 @@
+# file: D:\01-07-2024\OneDrive\Área de Trabalho\estoque_app\src\infrastructure\logging.py
+# hypothesis_version: 6.151.9
+
+['INFO', 'asyncpg', 'development', 'duration_ms', 'exception', 'function', 'level', 'line', 'logger', 'logs/dekids.log', 'message', 'midnight', 'module', 'production', 'request_id', 'timestamp', 'urllib3', 'user_id']

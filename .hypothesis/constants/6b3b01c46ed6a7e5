@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\storage3\_sync\bucket.py
+# hypothesis_version: 6.151.9
+
+['/', 'DELETE', 'GET', 'POST', 'PUT', 'SyncStorageBucketAPI', 'bucket', 'empty', 'error', 'id', 'message', 'name', 'statusCode']

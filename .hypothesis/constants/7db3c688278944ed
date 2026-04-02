@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\chardet\universaldetector.py
+# hypothesis_version: 6.151.9
+
+[b'(\x1b|~{)', b'[\x80-\xff]', 0.0, 0.0001, 0.005, 0.1, 0.2, 1.0, 100, 200, 8192, 200000, 'CP874', 'CP949', 'UTF-16', 'UTF-32', 'UTF-8-SIG', 'Windows-1250', 'Windows-1251', 'Windows-1252', 'Windows-1253', 'Windows-1254', 'Windows-1255', 'Windows-1256', 'Windows-1257', 'ascii', 'confidence', 'encoding', 'euc-kr', 'iso-8859-1', 'iso-8859-11', 'iso-8859-13', 'iso-8859-2', 'iso-8859-5', 'iso-8859-6', 'iso-8859-7', 'iso-8859-8', 'iso-8859-9', 'language', 'no data received!', 'probers', 'tis-620', 'utf-8']

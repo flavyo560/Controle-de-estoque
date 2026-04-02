@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\strictyaml\constants.py
+# hypothesis_version: 6.151.9
+
+['.+?\\@.+?', '0', '1', 'email', 'false', 'n', 'no', 'off', 'on', 'true', 'y', 'yes']

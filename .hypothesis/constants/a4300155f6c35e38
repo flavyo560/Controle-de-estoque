@@ -1,0 +1,4 @@
+# file: D:\01-07-2024\OneDrive\Área de Trabalho\estoque_app\src\services\report_service.py
+# hypothesis_version: 6.151.9
+
+[100, 300, 3600, 'average_sale', 'created_at', 'day', 'end_date', 'group_by', 'id', 'inventory_report:*', 'is_low_stock', 'low_stock_count', 'method', 'min_stock', 'month', 'movement_type', 'movements', 'name', 'payment_method', 'payment_methods', 'percentage', 'period', 'price', 'product_id', 'product_name', 'products', 'quantity', 'quantity_after', 'quantity_before', 'quantity_change', 'revenue', 'revenue_report:*', 'sales_by_period', 'sales_count', 'sales_report:*', 'sku', 'start_date', 'stock_value', 'total_amount', 'total_products', 'total_revenue', 'total_sales', 'total_stock_value', 'transaction_count', 'week']

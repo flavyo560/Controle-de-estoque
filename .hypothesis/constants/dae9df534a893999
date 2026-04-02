@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\pyiceberg\transforms.py
+# hypothesis_version: 6.151.9
+
+['<q', 'ArrayLike', 'DayTransform()', 'HourTransform()', 'ISO-8859-1', 'IdentityTransform()', 'MonthTransform()', 'S', 'T', 'VoidTransform()', 'YearTransform()', 'bucket', 'day', 'granularity', 'hour', 'identity', 'month', 'null', 'pa.DataType', 'pyarrow', 'pyiceberg-core', 'pyiceberg_core', 'time', 'truncate', 'unknown', 'void', 'year']

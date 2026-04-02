@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\pyiceberg\avro\codecs\__init__.py
+# hypothesis_version: 6.151.9
+
+['avro.codec', 'bzip2', 'deflate', 'gzip', 'null', 'snappy', 'zstandard', 'zstd']

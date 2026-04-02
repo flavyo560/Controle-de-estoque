@@ -1,0 +1,4 @@
+# file: D:\01-07-2024\OneDrive\Área de Trabalho\estoque_app\src\infrastructure\error_handler.py
+# hypothesis_version: 6.151.9
+
+['INTERNAL_ERROR', 'context', 'details', 'error', 'error_code', 'error_message', 'error_type', 'message', 'stack_trace', 'success', 'timestamp']

@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\storage3\_async\vectors.py
+# hypothesis_version: 6.151.9
+
+[500, 'CreateIndex', 'CreateVectorBucket', 'DeleteIndex', 'DeleteVectorBucket', 'DeleteVectors', 'GetIndex', 'GetVectorBucket', 'GetVectors', 'ListIndexes', 'ListVectorBuckets', 'ListVectors', 'POST', 'PutVectors', 'QueryVectors', 'vectorBucketName']

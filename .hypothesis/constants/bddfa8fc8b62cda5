@@ -1,0 +1,4 @@
+# file: D:\01-07-2024\OneDrive\Área de Trabalho\estoque_app\src\repositories\sale_repository.py
+# hypothesis_version: 6.151.9
+
+[' AND ', 'WHERE ', 'amount', 'avg_sale_value', 'payment_method', 'product_id', 'product_snapshot', 'quantity', 'sales', 'subtotal', 'total_revenue', 'total_sales', 'unit_price']

@@ -1,0 +1,4 @@
+# file: D:\01-07-2024\OneDrive\Área de Trabalho\estoque_app\src\repositories\base.py
+# hypothesis_version: 6.151.9
+
+[100, ' AND ', 'ASC', 'DESC', 'ORDER BY id DESC', 'PaginatedResult[T]', 'T', 'WHERE ', 'deleted_at IS NULL']

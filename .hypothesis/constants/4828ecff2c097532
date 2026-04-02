@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\strictyaml\ruamel\main.py
+# hypothesis_version: 6.151.9
+
+['!', '.', '/*/__plug_in__.py', '_', '_emitter', '_serializer', '_stream', 'add_constructor', 'add_path_resolver', 'add_representer', 'base', 'open', 'r', 'rb', 'read', 'rt', 'safe', 'typ', 'unsafe', 'utf-8', 'w', 'write', 'yaml_tag']

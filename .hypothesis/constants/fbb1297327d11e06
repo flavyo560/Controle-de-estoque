@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\storage3\_sync\file_api.py
+# hypothesis_version: 6.151.9
+
+[200, 400, '/', 'Content-Type', 'DELETE', 'GET', 'HEAD', 'InternalError', 'Key', 'POST', 'PUT', 'SyncBucket', 'application/json', 'authenticated', 'bucketId', 'cache-control', 'cacheControl', 'content-type', 'copy', 'destinationKey', 'download', 'error', 'expiresIn', 'file', 'headers', 'image', 'info', 'list', 'list-v2', 'message', 'metadata', 'move', 'object', 'path', 'paths', 'prefix', 'prefixes', 'public', 'rb', 'render', 'sign', 'signedURL', 'signedUrl', 'signed_url', 'sourceKey', 'statusCode', 'token', 'transform', 'upload', 'upsert', 'url', 'x-metadata', 'x-upsert']

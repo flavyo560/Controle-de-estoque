@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\strictyaml\ruamel\reader.py
+# hypothesis_version: 6.151.9
+
+[127, 1024, 4096, '\x00', '<byte string>', '<file>', '<unicode string>', 'Reader', 'ReaderError', '[^\t\n\r -~\x85\xa0-\ud7ff\ue000-�]', '[^\t\n\r -~\x85\xa0-\ud7ff\ue000-�𐀀-\U0010ffff]', '_reader', 'ascii', 'name', 'read', 'strict', 'unicode', 'utf-16-be', 'utf-16-le', 'utf-8', '\ufeff']

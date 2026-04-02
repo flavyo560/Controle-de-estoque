@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\lottie.py
+# hypothesis_version: 6.151.9
+
+['animate', 'backgroundLoading', 'bool', 'error', 'filterQuality', 'fit', 'lottie', 'onError', 'repeat', 'reverse', 'src', 'srcBase64']

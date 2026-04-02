@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\strictyaml\ruamel\representer.py
+# hypothesis_version: 6.151.9
+
+[0.0, 1.0, 1e+300, '\x07', '!!', '"', '%r', '%r%rj', '%r+%rj', '%rj', '%s.%s', "'", '+', '-.inf', '.', '.0e', '.inf', '.nan', '0', '0.', '0b', '0o', '0x', '<<', '>', '?', 'BaseRepresenter', 'Representer', 'RepresenterError', 'RoundTripRepresenter', 'SafeRepresenter', 'T', 'X', '_', '__getinitargs__', '__getstate__', '__newobj__', '__reduce__', '__reduce_ex__', 'args', 'ascii', 'b', 'base64', 'comment', 'd', 'delta', 'dictitems', 'e', 'encodebytes', 'false', 'fold_pos', 'items', 'listitems', 'null', 'o', 'state', 't', 'tag:yaml.org,2002:', 'true', 'typ', 'tz', 'use_version', 'utf-8', 'x', 'yaml_representers', '{:0{}X}', '{:0{}b}', '{:0{}d}', '{:0{}o}', '{:0{}x}', '{:{}.{}e}', '{:{}0{}d}', '{}{:0{}.{}f}', '{}{:d}.', '|', '|>']

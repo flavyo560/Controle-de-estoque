@@ -1,0 +1,4 @@
+# file: D:\01-07-2024\OneDrive\Área de Trabalho\estoque_app\relatorios.py
+# hypothesis_version: 6.151.9
+
+[0.0, 100, 'T', 'caminho', 'cancelada', 'cliente_nome', 'clientes', 'data_fim', 'data_hora', 'data_inicio', 'desconto_percentual', 'desconto_valor', 'descricao', 'erro', 'faturamento_gerado', 'faturamento_total', 'filtros', 'forma_pagamento', 'genero', 'id', 'itens_venda', 'limit', 'marca', 'nome', 'nome_vendedor', 'numero_registros', 'numero_vendas', 'pagamentos', 'percentual', 'preco', 'preco_max', 'preco_min', 'produto_id', 'produtos', 'quantidade', 'quantidade_vendida', 'referencia', 'relatorios', 'status', 'subtotal', 'tamanho', 'ticket_medio', 'username', 'usuario_id', 'usuarios', 'utf-8-sig', 'valor', 'valor_final', 'valor_total', 'venda_id', 'vendas', 'vendedor_nome', 'w']

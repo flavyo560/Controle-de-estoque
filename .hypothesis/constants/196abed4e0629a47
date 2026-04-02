@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\storage3\types.py
+# hypothesis_version: 6.151.9
+
+['ANALYTICS', 'DELETE', 'FileOptions', 'GET', 'HEAD', 'JSON', 'POST', 'PUT', 'asc', 'avif', 'cache-control', 'contain', 'content-type', 'cosine', 'cover', 'created_at', 'dataType', 'desc', 'distanceMetric', 'euclidean', 'fill', 'headers', 'id', 'ignore', 'indexName', 'metadata', 'name', 'origin', 'updated_at', 'upsert', 'vectorBucketName', 'x-upsert']

@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\pyiceberg\catalog\rest\auth.py
+# hypothesis_version: 6.151.9
+
+[400, 401, '.', ':', 'AuthManager', 'Authorization', 'Content-type', 'access_token', 'auth.manager', 'basic', 'client_credentials', 'client_id', 'client_secret', 'entra', 'expires_in', 'google', 'grant_type', 'legacyoauth2', 'noop', 'oauth2', 'scope', 'utf-8']

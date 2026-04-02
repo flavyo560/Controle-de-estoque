@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\list_tile.py
+# hypothesis_version: 6.151.9
+
+[4.0, 16.0, 40.0, 'autofocus', 'bgcolor', 'bgcolorActivated', 'blur', 'bool', 'bottom', 'center', 'click', 'contentPadding', 'dense', 'drawer', 'enableFeedback', 'float', 'focus', 'horizontalSpacing', 'hoverColor', 'iconColor', 'isThreeLine', 'leading', 'list', 'listtile', 'long_press', 'minHeight', 'minLeadingWidth', 'minVerticalPadding', 'mouseCursor', 'n', 'onLongPress', 'onclick', 'selected', 'selectedColor', 'selectedTileColor', 'shape', 'style', 'subtitle', 'subtitleTextStyle', 'textColor', 'threeLine', 'title', 'titleAlignment', 'titleHeight', 'titleTextStyle', 'toggleInputs', 'top', 'trailing', 'url', 'urlTarget', 'visualDensity']

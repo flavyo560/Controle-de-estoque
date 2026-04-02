@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\navigation_rail.py
+# hypothesis_version: 6.151.9
+
+['all', 'bgcolor', 'bool', 'change', 'elevation', 'extended', 'float', 'groupAlignment', 'icon', 'icon_content', 'indicatorColor', 'indicatorShape', 'int', 'label', 'labelType', 'label_content', 'leading', 'minExtendedWidth', 'minWidth', 'n', 'navigationrail', 'none', 'padding', 'selected', 'selectedIcon', 'selectedIndex', 'selected_icon', 'trailing']

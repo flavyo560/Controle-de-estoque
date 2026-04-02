@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\pyiceberg\catalog\rest\scan_planning.py
+# hypothesis_version: 6.151.9
+
+['V', 'after', 'cancelled', 'case-sensitive', 'column-sizes', 'completed', 'content', 'content-offset', 'data', 'data-file', 'delete-files', 'end-snapshot-id', 'equality-deletes', 'equality-ids', 'failed', 'file-format', 'file-path', 'file-scan-tasks', 'file-size-in-bytes', 'first-row-id', 'key-metadata', 'lower-bounds', 'min-rows-requested', 'nan-value-counts', 'null-value-counts', 'plan-id', 'plan-task', 'plan-tasks', 'position-deletes', 'record-count', 'referenced-data-file', 'residual-filter', 'snapshot-id', 'sort-order-id', 'spec-id', 'split-offsets', 'start-snapshot-id', 'stats-fields', 'status', 'storage-credentials', 'submitted', 'upper-bounds', 'use-snapshot-schema', 'value-counts']

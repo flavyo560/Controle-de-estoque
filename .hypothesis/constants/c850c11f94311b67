@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\expansion_tile.py
+# hypothesis_version: 6.151.9
+
+['affinity', 'bgColor', 'bool', 'change', 'clipBehavior', 'collapsedBgColor', 'collapsedIconColor', 'collapsedShape', 'collapsedTextColor', 'controls', 'controlsPadding', 'crossAxisAlignment', 'dense', 'enableFeedback', 'expandedAlignment', 'expansiontile', 'iconColor', 'initiallyExpanded', 'leading', 'maintainState', 'minTileHeight', 'n', 'onChange', 'platform', 'shape', 'showTrailingIcon', 'subtitle', 'textColor', 'tilePadding', 'title', 'trailing', 'visualDensity']

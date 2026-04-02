@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\pyiceberg\table\inspect.py
+# hypothesis_version: 6.151.9
+
+[1000.0, 'added_snapshot_id', 'column_size', 'column_sizes', 'committed_at', 'contains_nan', 'contains_null', 'content', 'data_file', 'equality_ids', 'file', 'file_count', 'file_format', 'file_path', 'file_sequence_number', 'file_size_in_bytes', 'is_current_ancestor', 'key_metadata', 'last_updated_at', 'latest_schema_id', 'latest_snapshot_id', 'length', 'lower_bound', 'lower_bounds', 'made_current_at', 'manifest_list', 'ms', 'name', 'nan_value_count', 'nan_value_counts', 'null_value_count', 'null_value_counts', 'operation', 'parent_id', 'partition', 'partition_spec_id', 'partition_summaries', 'path', 'readable_metrics', 'record_count', 'sequence_number', 'snapshot_id', 'sort_order_id', 'spec_id', 'split_offsets', 'status', 'summary', 'timestamp', 'type', 'upper_bound', 'upper_bounds', 'value_count', 'value_counts']

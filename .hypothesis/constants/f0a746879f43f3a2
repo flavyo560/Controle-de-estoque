@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\text_style.py
+# hypothesis_version: 6.151.9
+
+['alphabetic', 'bodyLarge', 'bodyMedium', 'bodySmall', 'clip', 'dashed', 'displayLarge', 'displayMedium', 'displaySmall', 'dotted', 'double', 'ellipsis', 'fade', 'headlineLarge', 'headlineMedium', 'headlineSmall', 'ideographic', 'labelLarge', 'labelMedium', 'labelSmall', 'solid', 'titleLarge', 'titleMedium', 'titleSmall', 'visible', 'wavy']

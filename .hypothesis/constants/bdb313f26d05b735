@@ -1,0 +1,4 @@
+# file: D:\01-07-2024\OneDrive\Área de Trabalho\estoque_app\src\domain\user.py
+# hypothesis_version: 6.151.9
+
+[200, 255, 'Invalid email format', '^[a-zA-Z0-9_-]+$', 'admin', 'email', 'manager', 'role', 'user', 'username']

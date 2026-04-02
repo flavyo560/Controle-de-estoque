@@ -1,0 +1,4 @@
+# file: D:\01-07-2024\OneDrive\Área de Trabalho\estoque_app\src\exceptions.py
+# hypothesis_version: 6.151.9
+
+['AUTHENTICATION_ERROR', 'AUTHORIZATION_ERROR', 'CACHE_ERROR', 'CONFIGURATION_ERROR', 'DATABASE_ERROR', 'DUPLICATE_ERROR', 'INSUFFICIENT_STOCK', 'NOT_FOUND', 'VALIDATION_ERROR', 'actual_version', 'available', 'config_key', 'details', 'error', 'expected_version', 'field', 'message', 'operation', 'product_id', 'product_sku', 'reason', 'requested', 'required_role', 'resource_id', 'resource_type', 'user_role', 'value']

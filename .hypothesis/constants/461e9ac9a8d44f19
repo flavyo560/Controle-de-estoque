@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\strictyaml\ruamel\parser.py
+# hypothesis_version: 6.151.9
+
+['!', '!!', 'Parser', 'ParserError', 'RoundTripParser', 'TAG', 'YAML', '_parser', 'binary', 'block', 'bool', 'float', 'flow', 'int', 'map', 'null', 'omap', 'pairs', 'seq', 'set', 'str', 'tag:yaml.org,2002:', 'tags', 'timestamp', 'typ', 'while parsing a node']

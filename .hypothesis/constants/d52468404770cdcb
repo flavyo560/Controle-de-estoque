@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\banner.py
+# hypothesis_version: 6.151.9
+
+['action', 'banner', 'bgColor', 'bool', 'content', 'contentPadding', 'contentTextStyle', 'dividerColor', 'elevation', 'float', 'forceActionsBelow', 'leading', 'leadingPadding', 'margin', 'modal', 'n', 'open', 'shadowColor', 'surfaceTintColor', 'visible']

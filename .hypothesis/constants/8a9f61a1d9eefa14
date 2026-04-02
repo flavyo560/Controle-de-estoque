@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\file_picker.py
+# hypothesis_version: 6.151.9
+
+['0.21.0', '0.26.0', 'PUT', 'allowMultiple', 'allowedExtensions', 'any', 'audio', 'bool', 'custom', 'dialogTitle', 'error', 'fileName', 'fileType', 'file_name', 'filepicker', 'files', 'getDirectoryPath', 'image', 'initialDirectory', 'media', 'path', 'pickFiles', 'progress', 'result', 'saveFile', 'state', 'upload', 'video']

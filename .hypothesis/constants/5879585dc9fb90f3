@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\strictyaml\scalar.py
+# hypothesis_version: 6.151.9
+
+['", "', '$', "'{}' is not a URL", "'{}' is not a string", "'{}' not an integer.", ',', ', ', '-inf', '.', 'CommaSeparated({0})', 'Enum({0})', 'Not a boolean', 'Not an empty dict', '_', 'a {0}', 'email', 'expected a URL,', 'inf', 'nan', 'no', 'null', 'when expecting a URL', 'yes', "{} found '{}'"]

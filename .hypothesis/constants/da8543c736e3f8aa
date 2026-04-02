@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\cupertino_colors.py
+# hypothesis_version: 6.151.9
+
+['0.25.0', '0.28.0', 'ColorValue', 'CupertinoColors', '_', 'activeBlue', 'activeGreen', 'activeOrange', 'cupertinoBlack', 'cupertinoWhite', 'darkBackgroundGray', 'destructiveRed', 'inactiveGray', 'label', 'lightBackgroundGray', 'link', 'onprimary', 'opaqueSeparator', 'placeholderText', 'primary', 'quaternaryLabel', 'quaternarySystemFill', 'secondaryLabel', 'secondarySystemFill', 'separator', 'systemBackground', 'systemBlue', 'systemBrown', 'systemCyan', 'systemFill', 'systemGreen', 'systemGrey', 'systemGrey2', 'systemGrey3', 'systemGrey4', 'systemGrey5', 'systemGrey6', 'systemIndigo', 'systemMint', 'systemOrange', 'systemPink', 'systemPurple', 'systemRed', 'systemTeal', 'systemYellow', 'tertiaryLabel', 'tertiarySystemFill']

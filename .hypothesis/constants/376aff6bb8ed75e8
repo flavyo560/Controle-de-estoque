@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\tabs.py
+# hypothesis_version: 6.151.9
+
+[1.0, 2.0, 'animationDuration', 'bool', 'change', 'click', 'clipBehavior', 'content', 'dividerColor', 'dividerHeight', 'enableFeedback', 'float', 'height', 'icon', 'iconMargin', 'indicatorBorderSide', 'indicatorColor', 'indicatorPadding', 'indicatorTabSize', 'indicatorThickness', 'int', 'isSecondary', 'labelColor', 'labelPadding', 'labelTextStyle', 'mouseCursor', 'n', 'overlayColor', 'scrollable', 'selectedIndex', 'tab', 'tabAlignment', 'tab_content', 'tabs', 'text', 'unselectedLabelColor']

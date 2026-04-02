@@ -1,0 +1,23 @@
+[MASTER]
+init-hook='import sys; sys.path.append(".")'
+
+[MESSAGES CONTROL]
+disable=C0111,  # missing-docstring
+        C0103,  # invalid-name
+        R0903,  # too-few-public-methods
+        R0913,  # too-many-arguments
+        W0212,  # protected-access (for tests)
+        C0301   # line-too-long (handled by black)
+
+[FORMAT]
+max-line-length=120
+
+[DESIGN]
+max-attributes=10
+max-args=8
+
+[BASIC]
+good-names=i,j,k,ex,_,id,db
+
+[SIMILARITIES]
+min-similarity-lines=10

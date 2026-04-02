@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\switch.py
+# hypothesis_version: 6.151.9
+
+['activeColor', 'activeTrackColor', 'autofocus', 'blur', 'bool', 'change', 'float', 'focus', 'focusColor', 'hoverColor', 'inactiveThumbColor', 'inactiveTrackColor', 'label', 'labelPosition', 'labelStyle', 'mouseCursor', 'overlayColor', 'splashRadius', 'switch', 'thumbColor', 'thumbIcon', 'trackColor', 'trackOutlineColor', 'value']

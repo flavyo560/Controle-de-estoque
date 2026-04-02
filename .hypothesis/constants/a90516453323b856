@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\card.py
+# hypothesis_version: 6.151.9
+
+['bool', 'card', 'clipBehavior', 'color', 'content', 'elevated', 'elevation', 'filled', 'isSemanticContainer', 'margin', 'n', 'outlined', 'shadowColor', 'shape', 'surfaceTintColor', 'variant']

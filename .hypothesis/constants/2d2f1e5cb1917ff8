@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\charts\bar_chart_rod.py
+# hypothesis_version: 6.151.9
+
+['bgColor', 'bgFromY', 'bgGradient', 'bgToY', 'bool', 'borderRadius', 'borderSide', 'color', 'float', 'fromY', 'gradient', 'rod', 'selected', 'showTooltip', 'toY', 'tooltip', 'tooltipAlign', 'width']

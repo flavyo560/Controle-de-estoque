@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\strictyaml\ruamel\comments.py
+# hypothesis_version: 6.151.9
+
+['#', '# ', ')', ',\n  end=', '.', 'CommentedKeySeq', 'CommentedMap', 'CommentedOrderedMap', 'CommentedSeq', 'CommentedSet', '_end', '_flow_style', '_items', '_lst', '_mapping', '_od', '_ok', '_ref', '_start', '_yaml_comment', '_yaml_format', '_yaml_line_col', '_yaml_merge', '_yaml_tag', 'ca', 'comment', 'comment_attrib', 'merge_attrib', 'odict', 'ordereddict', 'ordereddict(', 'set({0!r})', 'value', '{}\n']

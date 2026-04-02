@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\backends\openssl\aead.py
+# hypothesis_version: 6.151.9
+
+[b'-ccm', 'ascii', 'int *', 'unsigned char[]']

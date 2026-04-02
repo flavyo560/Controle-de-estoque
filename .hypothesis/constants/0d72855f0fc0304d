@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\flet\core\image.py
+# hypothesis_version: 6.151.9
+
+['bool', 'borderRadius', 'color', 'colorBlendMode', 'error_content', 'excludeFromSemantics', 'filterQuality', 'fit', 'gaplessPlayback', 'image', 'n', 'repeat', 'semanticsLabel', 'src', 'srcBase64']

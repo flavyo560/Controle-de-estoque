@@ -1,0 +1,4 @@
+# file: C:\Users\flavy\AppData\Roaming\Python\Python311\site-packages\pyiceberg\catalog\rest\response.py
+# hypothesis_version: 6.151.9
+
+[400, 401, 403, 419, 422, 500, 501, 503, 600, ', ', 'invalid_client', 'invalid_grant', 'invalid_request', 'invalid_scope', 'msg', 'unauthorized_client']
